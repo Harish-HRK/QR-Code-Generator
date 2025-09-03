@@ -4,7 +4,7 @@
 A simple and responsive QR Code Generator built with HTML, CSS, and JavaScript.
 This tool lets you generate QR codes instantly from any text or URL and download them as an image.
 
-🚀 Features
+# 🚀 Features
 
 Generate QR codes from text or URLs
 
@@ -16,7 +16,7 @@ Download QR Code as PNG
 
 Works offline (no backend required)
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 HTML5
 
@@ -39,7 +39,7 @@ Enter text or URL → Click Generate QR Code (or press Enter).
 
 Download your QR code as an image.
 
-🌟 Future Improvements
+# 🌟 Future Improvements
 
 Add QR code color customization
 
